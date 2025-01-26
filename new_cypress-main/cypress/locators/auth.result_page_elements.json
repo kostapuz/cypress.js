@@ -1,0 +1,5 @@
+{
+  "result_popup": "#message",
+  "result_popup_message": "#messageHeader",
+  "close_button": "#exitMessageButton > .exitIcon"
+}

@@ -1,0 +1,6 @@
+{
+    "auth_form":".login__content",
+    "input_login":".k_form_f_email",
+    "input_password":".k_form_f_pass",
+    "button_enter": ".k_form_send_auth"
+}

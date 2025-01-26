@@ -1,0 +1,13 @@
+{
+    "mainPageHeaderIdButton": ".header__container > .header__id",
+    "trainerPageChangeAvatarButton": "[href='/shop']",
+    "shopPageFirstAvailableAvatar": ".available > button",
+    "paymentPageCardNumberInput": ".pay__payform-v2 > :nth-child(2) > .pay_base-input-v2",
+    "paymentPageCardHolderNameInput": ".pay__input-box-last-of > .pay_base-input-v2",
+    "paymentpageCardCvvCodeInput": ".pay-inputs-box > :nth-child(2) > .pay_base-input-v2",
+    "paymentPageCardValidDateInput": ":nth-child(1) > .pay_base-input-v2",
+    "paymentPageSubmitButton": ".pay-btn",
+    "paymentPageVerificationCodeInput": "#cardnumber",
+    "paymentPageVerificationSubmitButton": ".payment__submit-button",
+    "paymentPageSuccessMessageContainer": ".payment__field-defolt-for-success"
+}
